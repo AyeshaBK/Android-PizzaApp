@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayesh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_71e21c3297d47a6c4e84b5d2f58af66d1c7b9a28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be20de7d3beef1feb9e1f5c50af87cbb4b14e99f">
+        <dex dex="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_903a8153b590f564cc026c2fa071ee1a8b44e904\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_37e72d43ca1e40a4caf17b75f4d9ec1fbfc4207c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_285d87386b1136ffe2447d72ce7dfca61ea8c033\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_ae1de696d565e37937697c63afe617ca13122b08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_829d115cf2b5e0c80d8acede3e4b7cda18165ee2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f28f2aa4b864b9b3e80405af2f8d7a32b6357e1c">
+        <dex dex="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_46ffe6f1c56253c837097f6c04f9d9e7233a3129\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_a8264d5090277cfacdc34fcc332d09689bf84004\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_6125030e467b43b7beeacdd658c5c7b75a80d9dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_cae1deb193dace63335428c70da881ad74cdcd19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_3f6a817651854e1a1b01cc59b7585730a23636e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\ayesh\AndroidStudioProjects\PizzaApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_09399634bf63427c2450c7a085e7d8b045c30b01\classes.dex" />
+    </item>
+
+</items>
